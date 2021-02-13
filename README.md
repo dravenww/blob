@@ -21,3 +21,6 @@
 
 - [react 技术揭秘](https://react.iamkasong.com/)
 - [如何进行react源码的debug](https://github.com/dravenww/blob/issues/1)
+
+## webpack
+- [splitChunks插件使用详解](https://github.com/dravenww/blob/issues/9)
