@@ -1,6 +1,10 @@
-![](https://raw.githubusercontent.com/dravenww/blob/master/blob.jpg)
+![](https://raw.githubusercontent.com/dravenww/blob/master/draven.png)
 
-德莱问的个人博客
+博客介绍
+
+努力打造一系列适合初中高级工程师能够看得懂的优质文章，今年博客侧重于react、node和webpack等底层原理分析。
+
+如果想第一时间获取文章，欢迎**watch订阅**，接下去的路我们一起走，一起交流学习！
 
 订阅请点 watch, 收藏请点 star, 不要点 fork
 
@@ -26,3 +30,16 @@
 
 ## webpack
 - [splitChunks插件使用详解](https://github.com/dravenww/blob/issues/9)
+
+## 工具型
+- [教你几行代码做个短视频 FFCreator](https://github.com/dravenww/blob/issues/12)
+
+
+# 注意
+深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
+
+# 勘误及提问
+如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
+
+
+如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
