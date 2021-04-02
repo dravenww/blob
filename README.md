@@ -34,7 +34,7 @@
 ## 工具型
 - [教你几行代码做个短视频 FFCreator](https://github.com/dravenww/blob/issues/12)
 - [vite解析 + webpack迁移+vie-react-pro项目](https://github.com/dravenww/blob/issues/13)
-- [【wp2vite]一个让webpack项目支持vite的命令行工具](https://github.com/dravenww/blob/issues/14)
+- [【wp2vite】一个让webpack项目支持vite的命令行工具](https://github.com/dravenww/blob/issues/14)
 
 # 注意
 深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
