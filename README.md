@@ -47,5 +47,5 @@
 
 # 交楼
 欢迎关注我的微信公众号，微信扫下面二维码或搜索“德莱问”，一起学习进步，共勉。
-![](https://raw.githubusercontent.com/dravenww/blob/master/erweima.jpeg)
+![](https://raw.githubusercontent.com/dravenww/blob/master/erweima.jpg)
 
