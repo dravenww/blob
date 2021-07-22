@@ -13,6 +13,7 @@
 - [前端面试-基础](https://github.com/dravenww/blob/issues/2)
 - [前端面试-框架](https://github.com/dravenww/blob/issues/3)
 - [前端面试-计算机基础](https://github.com/dravenww/blob/issues/4)
+- [从0.1 + 0.2 !== 0.3 聊聊计算机基础](https://github.com/dravenww/blob/issues/16)
 
 ## Vue
 
@@ -27,6 +28,7 @@
 
 - [react 技术揭秘](https://react.iamkasong.com/)
 - [如何进行react源码的debug](https://github.com/dravenww/blob/issues/1)
+- [React大型项目状态管理库如何选型？](https://github.com/dravenww/blob/issues/15)
 
 ## webpack
 - [splitChunks插件使用详解](https://github.com/dravenww/blob/issues/9)
