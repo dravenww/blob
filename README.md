@@ -29,6 +29,7 @@
 - [react 技术揭秘](https://react.iamkasong.com/)
 - [如何进行react源码的debug](https://github.com/dravenww/blob/issues/1)
 - [React大型项目状态管理库如何选型？](https://github.com/dravenww/blob/issues/15)
+- [基于业务沉淀组件 manage-table](https://github.com/dravenww/blob/issues/17)
 
 ## webpack
 - [splitChunks插件使用详解](https://github.com/dravenww/blob/issues/9)
